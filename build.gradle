@@ -18,6 +18,8 @@ jar {
 				'Main-Class': 'com.raduc.f1fantasy.Main'
 		)
 	}
+
+	enabled = false
 }
 
 dependencies {
