@@ -22,7 +22,6 @@ jar {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
-	implementation 'org.springframework.boot:spring-boot-starter-parent'
 	implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web', version: '2.6.2'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
