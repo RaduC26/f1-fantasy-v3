@@ -1,11 +1,11 @@
 package com.raduc.f1fantasy;
 
-public class Driver {
+public class Team {
     private final String name;
     private Double price;
     private Double points;
 
-    public Driver(String name, Double price) {
+    public Team(String name, Double price) {
         this.name = name;
         this.price = price;
     }
